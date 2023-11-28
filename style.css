@@ -7,7 +7,15 @@ body{
 
 
 /* Class selectors */
+.first{
+    color : red;
+}
 
 
 
 /* Id Selectors */
+#yourname{
+    border: 5px solid #427;
+    width: 400px;
+    background-color:rgb(130, 226, 255);
+}
