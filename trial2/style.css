@@ -1,0 +1,28 @@
+p {
+    background-color: red;
+    position: absolute;
+    bottom: 100px;
+    right: 30px;
+}
+#helloworld {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+span {
+    background-color: green;
+    display: inline-block;
+    width: 100px;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: aquamarine;
+}
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color: aquamarine;
