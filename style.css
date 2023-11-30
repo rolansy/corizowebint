@@ -48,7 +48,17 @@ input, button{
     color: blueviolet;
 }
 
+.containers{
+        display: flex;
+        background: transparent;
+        border-color: tomato;
+        border-width: 50px;
+        border-radius: 50px;
+        border-style: solid;
+        align-items: flex-end;
+        justify-content: flex-end;
 
+    }
 #course-img{
     width: 500px;
     display: block;
