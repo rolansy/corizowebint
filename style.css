@@ -56,7 +56,9 @@ input, button{
         border-radius: 50px;
         border-style: solid;
         align-items: flex-end;
+        flex-direction: column-reverse;
         justify-content: flex-end;
+        flex-wrap: wrap-reverse;
 
     }
 #course-img{
